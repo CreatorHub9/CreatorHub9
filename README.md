@@ -16,4 +16,4 @@
 
 
 
-<a href="https://discord.gg/CW7fmveQ4W"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/dsrbgJRswd"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
